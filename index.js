@@ -1,10 +1,8 @@
-fs = require('fs'),
-http = require('http'),
-csv = require('csv')
-dragDrop = require('drag-drop')
+var csv = require('csv'),
+var dragDrop = require('drag-drop')
 
-dragDrop('#dropTarget', function (files) {
-    console.log('Here are the dropped files', files)
+dragDrop('#dropTarget', function (file) {
+    console.log('Here are the dropped files', file)
 
     files.forEach(function (file) {
         console.log(file.name)

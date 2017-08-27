@@ -7,9 +7,9 @@
   },
   "main": "index.js",
   "dependencies": {
+    "browserify": "^14.4.0",
     "csv": "^1.1.1",
-    "drag-drop": "^2.13.2",    
-    "fs": "^0.0.1-security"
+    "drag-drop": "^2.13.2"
   },
   "devDependencies": {},
   "scripts": {
