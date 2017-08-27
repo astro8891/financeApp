@@ -1,0 +1,12 @@
+Type,Details,Particulars,Code,Reference,Amount,Date,ForeignCurrencyAmount,ConversionCharge
+Transfer,01-0505-0799882-00,Credit,Transfer,101953,372.00,24/08/2017,,
+Transfer,01-0505-0799882-00,Debit,Transfer,071016,-100.00,23/08/2017,,
+Transfer,01-0505-0799882-00,Debit,Transfer,201138,-100.00,21/08/2017,,
+Payment,Carpet Mill,Carpet,Mill,0144495,-2998.20,15/08/2017,,
+Transfer,01-0505-0799882-00,Credit,Transfer,073602,1224.00,15/08/2017,,
+Transfer,01-0505-0799882-00,Credit,Transfer,090712,41.00,01/08/2017,,
+Bank Fee,Monthly A/C Fee,,,,-4.00,31/07/2017,,
+Bank Fee,Manual Txn Fee,,,,-0.65,31/07/2017,,
+Bank Fee,Auto Txn Fee,,,,-2.75,31/07/2017,,
+Bank Fee,Overdraft Management Fee,,,,-12.00,31/07/2017,,
+Debit Interest,,,,,-21.57,31/07/2017,,

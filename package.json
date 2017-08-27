@@ -1,0 +1,20 @@
+{
+  "name": "finance-app",
+  "version": "1.0.0",
+  "description": "Reading CSV finance data",
+  "repository": {
+    "type": "git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "express": "^4.15.4",
+    "fs": "^0.0.1-security" 
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Stewart",
+  "license": "ISC"
+}
