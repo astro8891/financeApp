@@ -11,7 +11,9 @@
     "csv": "^1.1.1",
     "drag-drop": "^2.13.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
