@@ -1,6 +1,5 @@
-require('modules')
 var browserify = require('browserify')
-var csv = require('csv'),
+var csv = require('csv')
 var dragDrop = require('drag-drop')
 
 dragDrop('#dropTarget', function (file) {
